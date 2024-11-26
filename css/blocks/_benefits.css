@@ -1,0 +1,27 @@
+.benefitz {
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+.benefitz__list {
+
+}
+
+
+.benefits_item--next {
+    background-image: url("../../img/benefits-1.svg");
+    background-color: black;
+    
+}
+
+.benefits_item--next {
+    background-image: url("../../img/benefits-2.svg");
+}
+
+.benefits_item--price {
+    background-image: url("../../img/benefits-3.svg");
+}
+
+.benefits_item--packaging {
+    background-image: url("../../img/benefits-4.svg");
+}
